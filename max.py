@@ -4,8 +4,8 @@ for i in range(0, n):
     ele = int(input()) 
     lst.append(ele) 
 max=lst[0]
-for i in lst:
-    if i>max:
-        max=i    
+for j in lst:
+    if j>max:
+        max=j    
     
 print(f"Max is:{max}" )
