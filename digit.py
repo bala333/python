@@ -1,3 +1,3 @@
-n=(input())
-for i in n:
+k=(input())
+for i in k:
     print(i,end=" ")
